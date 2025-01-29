@@ -1,0 +1,11 @@
+
+__pycache__/
+.ipynb_checkpoints/
+/logs/
+/datasets/
+*.h5
+venv/
+env/
+.config/
+sample_data/
+*.ipynb
