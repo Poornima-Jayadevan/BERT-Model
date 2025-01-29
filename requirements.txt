@@ -1,0 +1,11 @@
+tensorflow==2.15.0
+tensorflow_hub==0.16.1
+tensorflow_text==2.15.0
+tf-models-official==2.15.0
+tf-keras==2.15.0
+google-cloud==2.11.0
+matplotlib==3.7.1
+numpy==1.24.2
+scipy==1.10.1
+pandas==2.0.1
+tqdm==4.65.0
